@@ -1,0 +1,1 @@
+Developed a simple rational expression calculator using the stack data structure. It supports six basic arithmetic operations and parentheses, and can fully detect illegal expressions and characters in various cases to prevent program crashes.
